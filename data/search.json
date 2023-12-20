@@ -19,20 +19,22 @@
     "url": "https://www.google.com/search?q=",
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/google.svg",
     "blocked": false,
-    "isInner": false
+    "isInner": false,
+    "placeholder": "Google"
   },
   {
     "name": "必应",
     "url": "https://cn.bing.com/search?q=",
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/bing.svg",
     "blocked": false,
-    "isInner": false
+    "isInner": false,
+    "placeholder": "微软必应搜索"
   },
   {
     "name": "GitHub",
     "url": "https://github.com/search?q=",
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/github.svg",
-    "placeholder": "Search GitHub",
+    "placeholder": "GitHub",
     "blocked": false,
     "isInner": false
   },
@@ -41,13 +43,14 @@
     "url": "https://www.zhihu.com/search?type=content&q=",
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/zhihu.svg",
     "blocked": false,
-    "isInner": false
+    "isInner": false,
+    "placeholder": "知乎"
   },
   {
     "name": "豆瓣",
     "url": "https://search.douban.com/book/subject_search?search_text=",
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/douban.svg",
-    "placeholder": "书名、作者、ISBN",
+    "placeholder": "书名、作者、ISBN、影评",
     "blocked": false,
     "isInner": false
   }
