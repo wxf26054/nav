@@ -26,6 +26,12 @@
       "url": "",
       "width": null,
       "height": null
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/sim-wallpaper.jpg",
+      "url": "",
+      "width": null,
+      "height": null
     }
   ],
   "simThemeDesc": "这里收录多达 <b>${total}</b> 个优质网站， 助您工作、学习和生活",
@@ -58,5 +64,11 @@
   ],
   "showLanguage": true,
   "showRate": true,
-  "mirrorList": []
+  "mirrorList": [
+    {
+      "url": "https://mirrors.ustc.edu.cn/",
+      "icon": "",
+      "name": "中国科学技术大学开源镜像站"
+    }
+  ]
 }
